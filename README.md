@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakshiblip/time-series-forecasting/blob/main/time_series_analysis___forecasting.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakshiblip/time-series-forecasting/blob/main/time_series_analysis_&_forecasting.ipynb)
 
 
 # Predicting Future Store Sales with AI 📈
