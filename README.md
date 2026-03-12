@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakshiblip/time-series-forecasting/blob/main/time_series_analysis___forecasting.ipynb)
+
+
 # Predicting Future Store Sales with AI 📈
 
 This repository contains a comprehensive time-series analysis and forecasting project aimed at predicting retail sales. By leveraging historical transaction data, this project implements statistical and machine learning models to identify seasonal patterns and forecast future demand with high precision.
